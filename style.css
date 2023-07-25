@@ -1,0 +1,39 @@
+#heading{
+    text-align: center;
+    position: relative;
+}
+.container{
+    height: 300px;
+    width: 400px;
+    background-image: linear-gradient(to top, rgb(161, 113, 73) 20%, #ea450f3a 40%);
+    margin-left: 80px;
+    border-radius: 30px;
+    text-align: center;
+    position: absolute;
+}
+.amount-input{
+    margin: 20px  auto;
+    height: 30px ;
+    width: 200px;
+    border-radius: 10px;
+    font-weight:500;
+}
+.tip-input{
+    margin: 10px  auto;
+    height: 30px ;
+    width: 200px;
+    border-radius: 10px;
+}
+p {
+    text-align:start;
+    color: bla;
+    margin-left: 100px;
+}
+button{
+    margin: 10px;
+    height: 30px;
+    border-radius: 10px;
+}
+#calculate{
+    margin: 0px;
+}
